@@ -1,5 +1,8 @@
 _repo: Only-an-Ensign-Volume-3-of-3-A-Tale-of-the-Retreat-from-Cabul_64254
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64254-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8949
     wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64254#Only-an-Ensign-Volume-3-of-3-A-Tale-of-the-Retreat-from-Cabul
 gutenberg_issued: '2021-01-10'
 gutenberg_type: Text
 identifiers:
